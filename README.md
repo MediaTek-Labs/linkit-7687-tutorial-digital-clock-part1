@@ -1,1 +1,1 @@
-# linkit-7687-tutorial-digital-clock-part1
+# LinkIt 7687 Tutorial - Digital Clock - part1
