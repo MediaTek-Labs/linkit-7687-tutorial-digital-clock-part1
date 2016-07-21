@@ -1,5 +1,7 @@
 # LinkIt 7687 Tutorial - Digital Clock - part1
 
+[![youtube](https://img.youtube.com/vi/ooVhGlTGyaE/0.jpg)](https://www.youtube.com/watch?v=ooVhGlTGyaE)
+
 ## Description
 
 Please visit [Mediatek Labs](http://labs.mediatek.com/rtos) web site for detail tutorial
